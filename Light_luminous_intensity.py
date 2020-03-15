@@ -37,7 +37,7 @@ bl_info = {
     'warning': '',
     'wiki_url': '',
     'tracker_url': '',
-    'link': 'https://blender-archipack.org',
+    'link': 'https://github.com/s-leger/blender-light_luminous_intensity',
     'support': 'COMMUNITY',
     'category': 'Lighting'
 }
